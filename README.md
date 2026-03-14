@@ -1,11 +1,11 @@
-## С#
+## Архитектура автоматизированных систем обработки информации и управления 
 
 ### sem
 
 | № | Тема | Ссылка |
 |---|------|--------|
-| 1 | Семинар 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem1) |
-| 2 | Семинар 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem2) |
+| 1 | Семинар 1| [Открыть]() |
+| 2 | Семинар 2| [Открыть]() |
 
 ---
 
@@ -13,7 +13,7 @@
 
 | № | Тема | Ссылка |
 |---|------|--------|
-| 1 | homework 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework1) |
+| 1 | homework 1| [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_Homework-1.git) |
 
 ---
 
@@ -21,7 +21,7 @@
 
 | № | Тема | Ссылка |
 |---|------|--------|
-| 1 | Лекция 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1) |
+| 1 | Лекция 1| [Открыть]() |
 
 
 
