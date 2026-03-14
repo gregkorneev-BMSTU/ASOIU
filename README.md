@@ -32,3 +32,5 @@
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | homework 1 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_Homework-1.git) |
+
+https://github.com/gregkorneev-BMSTU/ASOIU
