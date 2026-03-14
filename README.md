@@ -1,25 +1,27 @@
-# Семестр 2
+## С#
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### sem
 
-<h3 align="center">lab</h3>
+| № | Тема | Ссылка |
+|---|------|--------|
+| 1 | Семинар 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem1) |
+| 2 | Семинар 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem2) |
 
-<table>
-<tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
+---
 
-<!-- Добавляй лабораторные второго семестра сюда -->
-<tr>
-<td>1</td>
-<td>Лабораторная работа 1</td>
-<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab1.git">Открыть</a></td>
-</tr>
+### homework
 
-<tr>
-<td>2</td>
-<td>Лабораторная работа 2</td>
-<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab2.git">Открыть</a></td>
-</tr>
+| № | Тема | Ссылка |
+|---|------|--------|
+| 1 | homework 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework1) |
 
-</table>
+---
+
+### lectures
+
+| № | Тема | Ссылка |
+|---|------|--------|
+| 1 | Лекция 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1) |
+
+
+
