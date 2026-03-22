@@ -10,6 +10,7 @@
 |---|------|--------|
 | 1 | Семинар 1 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_sem1.git)|
 | 2 | Семинар 2 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_sem2.git)|
+| 3 | Семинар 3 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_sem3.git)|
 
 </td>
 
