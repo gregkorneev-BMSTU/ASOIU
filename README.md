@@ -9,7 +9,7 @@
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | Семинар 1 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_sem1.git)|
-| 2 | Семинар 2 | |
+| 2 | Семинар 2 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_sem2.git)|
 
 </td>
 
