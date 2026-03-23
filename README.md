@@ -16,7 +16,7 @@
 
 <td width="50%" valign="top">
 
-### [Лекции](https://github.com/gregkorneev-BMSTU/ASOIU_llectures.git)
+### [Лекции(Репозиторий лекций](https://github.com/gregkorneev-BMSTU/ASOIU_llectures.git)
 
 | № | Тема | Ссылка |
 |---|------|--------|
