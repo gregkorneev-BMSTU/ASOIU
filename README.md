@@ -34,4 +34,7 @@
 |---|------|--------|
 | 1 | ДЗ-1 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_Homework-1.git) |
 
-https://github.com/gregkorneev-BMSTU
+# 👨‍💻 Автор
+[Григорий Корнеев ИУ5-24Б](https://github.com/gregkorneev-BMSTU)
+
+[Репозиторий курса АСОИУ](https://github.com/gregkorneev-BMSTU/ASOIU)
