@@ -17,24 +17,15 @@
 
 <td width="50%" valign="top">
 
-### [Лекции (Репозиторий лекций)](https://github.com/gregkorneev-BMSTU/ASOIU_llectures.git)
-
-| № | Тема | Ссылка |
-|---|------|--------|
-| 1 | Лекция 1 |  |
-
-</td>
-</tr>
-</table>
-
----
-
 ### Домашнее задание
 
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | ДЗ-1 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_Homework-1.git) |
 | 2 | ДЗ-2 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_Homework-2.git) |
+
+---
+
 
 # 👨‍💻 Автор
 [Григорий Корнеев ИУ5-24Б](https://github.com/gregkorneev-BMSTU)
