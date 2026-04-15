@@ -32,7 +32,6 @@
 
 ---
 
-
 # 👨‍💻 Автор
 [Григорий Корнеев ИУ5-24Б](https://github.com/gregkorneev-BMSTU)
 
