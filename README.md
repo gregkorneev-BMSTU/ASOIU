@@ -23,6 +23,7 @@
 |---|------|--------|
 | 1 | ДЗ-1 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_Homework-1.git) |
 | 2 | ДЗ-2 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_Homework-2.git) |
+| 3 | ДЗ-3 | [Открыть](https://github.com/gregkorneev-BMSTU/ASOIU_Homework-3.git) |
 
 </table>
 
